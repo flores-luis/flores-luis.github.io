@@ -22,7 +22,8 @@ Use template for portfolio web page.
 - HTML
 - CSS & Flexbox
 - Bootstrap
-- 
+- Git and Git Hub
+- Command Line
 
 ---
 
