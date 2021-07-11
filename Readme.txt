@@ -1,6 +1,38 @@
-Thanks for downloading this template!
+# Creating a portofolio project
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+> Project: Personal Portfolio
+
+---
+
+### Table of Contents
+
+
+- [Description](#description)
+- [References](#references)
+- [Author Info](#author-info)
+
+---
+
+## Description
+
+Use template for portfolio web page.
+
+#### Technologies used
+
+- HTML
+- CSS & Flexbox
+- Bootstrap
+- 
+
+---
+
+## References
+
+- ROOTS Technology- [@rootstechnoology](https://rootstechnology.info/)
+
+---
+
+
+## Author Info
+Luis Flores
+- GitHub - [@luisflores](https://github.com/luis6212)
