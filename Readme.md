@@ -1,5 +1,5 @@
-# flores-luis.github.io 
-Creating a portfolio project
+
+#Creating a portfolio project
 
 > Project: Creating a Personal Portfolio Project
 <img src="https://marleyhankin.files.wordpress.com/2018/12/website-header2-1-1024x576.png" alt="portfolio_image"/>
