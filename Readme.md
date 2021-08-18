@@ -37,4 +37,4 @@ Use template for portfolio web page.
 
 ## Author Info
 Luis Flores
-- GitHub - [@luisflores](https://github.com/luis6212)
+- GitHub - [@luisflores](flores-luis.github.io)
